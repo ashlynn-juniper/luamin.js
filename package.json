@@ -1,5 +1,5 @@
 {
-  "name": "lua-format",
+  "name": "@moonstone-game/lua-format",
   "version": "1.4.1",
   "description": "Lua Beautifier & Minifier, written in JavaScript.\r",
   "main": "src/index.js",
